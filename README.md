@@ -1,6 +1,6 @@
 ## Oiii eu sou aSamira Amorim, atualmente sou product owner na Criasol
 
-<div align="center">
+[<div align="center">
   <a href="[https://github.com/Samorim](https://github.com/Samorim)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samorim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samorim&layout=compact&langs_count=7&theme=dracula"/>
@@ -26,6 +26,6 @@
  
   ![Snake animation](https://github.com/rafaballerini/Samorim/blob/output/github-contribution-grid-snake.svg)
  
-</div>(https://github.com/Samorim)
+</div>](https://github.com/Samorim)
 
 
